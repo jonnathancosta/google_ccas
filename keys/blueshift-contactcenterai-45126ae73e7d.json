@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "blueshift-contactcenterai",
+  "private_key_id": "45126ae73e7d52eebdf5b8db663f60bf44f72e89",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsJVA7VLkgq8Th\nF1HF3pt0ET2UZ3YHw3Dgjflt1EPAco2/YFlTg4fj1TOzTWVq2XCoCG828aIg9rxX\ntC68hCvO+DAct7kjmK8exhp/FDYCG01qBrETk1YxlFnSeNe1BluCrm/+cmgdBuYe\nfxT4yn7L8UXZ+RlNPm9OS0ORc6r7sPkL5GeWaO7of39rJip2tweLl9aiZeFbQC1m\nEotNO9YznMzF6DUriQOAaJHNFoQrBSL9/dCeAssMfQwdXc0iTlA8cadJWLP6NWE5\n9o3EUlL7Dg49e2RxuE3NG83xBxycS9PWKrBQBjIdFnguaMsTX6d0pRrSngy1Cq44\nkneufLf9AgMBAAECggEAKt1zuAJlwsPi12XWH95JeUJdwhltI4vADLptlLKZWE9u\nCmx0cb471TiekhRAn7WbPswy3UyX4Xtu9KvSQ3Dp87SLTmtVN47qdFBCAsjGlgm0\nYiVebJBwkxHst+MNW29E1CqZipN0Z13zaT6du0G5BxGCIj/L1Bcq4iUNoydZOSi0\nnrg4ftW01queGzkE2yuQZk8gn0DfWY4NzPCfNRxYIrAMn56If2P/7L/vD82zl2Wz\nA9WbYq+bef7SSQeWcKncgic/OewTDrjsesCG0eE0dN54UyBREghoRaiWy4f+VICW\nEEWr13EN+j5Jr1zhgD08ItXGwnJbNGzPRy2pIZPbxQKBgQDS34pU0a1W6OBUxo6z\ns5O5Nh7wIdkqAFboosn+zI5g3auf35vJfPn3MGnZg0ahfmX8NFxZyAf+NK6V+T2J\nL4/0grawQjbrext9j2ZjN7n0HLyD1zIRn23pu8VRkmeJ/lb6WftwSkrPlhgeaUfo\nPDveqpfVpXriqVzNRWdZ/NdB7wKBgQDQ/CG8sRbV+Q6syWhamcee79eS7iYMq9nb\nsJfgewmF2pcoOuGy0x4wba1ue+e1SiH1/fAZ0lch99nQjIrSSk4VAdkwNIavDhMs\nCVxrtSV00E+bqW70QNjDcfEnpBb4b2Hh9VtgYiWoySh82if6lsd5iUfWR52XyAEW\npcC8aeSg0wKBgQDKE4PJgmFc/q8zLk/D71upyi5dqeIkuMyQBKgTr0zlkKeN/keZ\nD1WvRsq4sW93BNyQklDJjMH0HeIMQBtzIowOIVEWmW1tvbx7V3cjr1xYjU0t/oOx\nlZlLui/92pG0EHKjWKV2VwtX4JreUb+h0k8BM3NrPjgDi48t+stu1bgmKwKBgBpj\n/I6rfkq/DM9dD8SBLugvOXXghQWMnhJUFpnOb8FrfTMjXGUMq/9JmmEdXIFUPz2l\nN7DLEx3DAsqHNPChWYLlnNuthmSMznb9J6KiWXyK4cKyfsRxe+4ScXWkDxKIXj/+\nj+939XF/FZHOqsXGTKJYZ63zlT8ZjqmhfNlONgTpAoGAdSKuI+/VAsQ8s4XJwSCp\nKisSaNbDIMll8J0jDPqoiT/T6Ndi8dUQ6wZfw3dlD9DecLMHn5P5di6DMF+iKRy5\nJRjB7c/Evx8wofJrfbIOIPg5S6ja4sK6rh5Sg43B1R7p/qOHf/FlDEQ8zRhPytHt\nZHChOCbIIHf6U2IpFlb7Nkk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wylliams-dev@blueshift-contactcenterai.iam.gserviceaccount.com",
+  "client_id": "113456935488727318421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wylliams-dev%40blueshift-contactcenterai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
